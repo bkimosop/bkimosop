@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an organization project**
 
-- 🌱 I’m currently learning **Docker (Iaas)**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **server-side**
 
