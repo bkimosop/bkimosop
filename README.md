@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **server-side**
 
-- 🤝 I’m looking for help with **Development Processes**
+- 🤝 I’m looking for help with **Development Processeses**
 
 - 💬 Ask me about **DevOps**
 
