@@ -1,5 +1,5 @@
 <h1 align="center">I'm Brian Kimosop</h1>
-<h3 align="center">A passionate DevOps engineer</h3>
+<h3 align="center">A passionate Software Developer and ICT Personnel</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
